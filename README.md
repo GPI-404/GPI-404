@@ -15,7 +15,7 @@ El objetivo es entender mejor cómo funcionan estas herramientas y aprender a tr
 Como resultado final, se elaborará un informe y/o una presentación con la información recopilada durante el desarrollo del trabajo.
 
 ## Metodología
-Se utilizó la metodología Scrum:
+Se utilizó la metodología Scrum.
 
 
 - ## Herramientas
