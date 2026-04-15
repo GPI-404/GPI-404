@@ -21,5 +21,7 @@ Se utilizó la metodología Scrum:
 - ## Herramientas
 - GitHub
 - Discord
+- Word
+- Google Documents
 
 Carpeta Drive: https://drive.google.com/drive/u/2/folders/12VQwAf5Lh4bg7QPhQzj_A3DKMmAcGXXN
