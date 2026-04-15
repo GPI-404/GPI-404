@@ -2,9 +2,9 @@
 
 | Nombre | Rol | Tarea asignada | GitHub |
 | --- | --- | --- | --- |
-| Juan Ignacio Selva Andrade | Scrum Master | Crear el repositorio en GitHub y gestiona los accesos de los compañeros | @juanigiannini |
-| Joaquin Gauto | Product Owner | Organizar la estructura de carpetas en Google Drive y supervisar el formato | @KadisMes |
-| Christopher Schuldhaus | Dev Leader | Encargado de buscar la información técnica y redactar los contenidos | @CSchuldhaus2 |
+| Juan Ignacio Selva Andrade | Scrum Master | Crear repositorio en GitHub y gestionar accesos | @juanigiannini |
+| Joaquin Gauto | Product Owner | Organizar carpetas en Google Drive y supervisar formatos | @KadisMes |
+| Christopher Schuldhaus | Dev Leader | Buscar información técnica y redactar contenidos | @CSchuldhaus2 |
 
 
 ## Descripción
