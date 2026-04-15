@@ -1,10 +1,10 @@
 # GPI-404
 
-| Nombre | Rol | GitHub |
-| --- | --- | --- |
-| Juan Ignacio Selva Andrade | Scrum Master | @juanigiannini |
-| Joaquin Gauto | Product Owner | @KadisMes |
-| Christopher Schuldhaus | Dev Leader | @CSchuldhaus2 |
+| Nombre | Rol | Tarea asignada | GitHub |
+| --- | --- | --- | --- |
+| Juan Ignacio Selva Andrade | Scrum Master | Crear el repositorio en GitHub y gestiona los accesos de los compañeros | @juanigiannini |
+| Joaquin Gauto | Product Owner | Organizar la estructura de carpetas en Google Drive y supervisar el formato | @KadisMes |
+| Christopher Schuldhaus | Dev Leader | Encargado de buscar la información técnica y redactar los contenidos | @CSchuldhaus2 |
 
 
 ## Descripción
